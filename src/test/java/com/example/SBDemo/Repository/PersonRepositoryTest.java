@@ -37,4 +37,9 @@ public class PersonRepositoryTest extends SbDemoApplicationTests {
             System.out.println(p);
         });
     }
+
+    public void update() {
+
+    }
+
 }
